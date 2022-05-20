@@ -1,7 +1,5 @@
 # violin
 
-[![Build Status](https://travis-ci.org/alexgarrett/violin.svg?branch=master)](https://travis-ci.org/alexgarrett/violin)
-
 Violin is an easy to use, highly customisable PHP validator.
 
 **Note: This package is under heavy development and is not recommended for production.**
