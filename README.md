@@ -13,7 +13,7 @@ Install using Composer.
 ```json
 {
     "require": {
-        "alexgarrett/violin": "2.*"
+        "webcharte/violin": "2.*"
     }
 }
 ```
